@@ -1,0 +1,15 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "express": "node ./RequestWideVars/run",
+    "v4": "node ./RequestWideVarsRouter/run"
+  },
+  "author": "",
+  "license": "GPL3",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
